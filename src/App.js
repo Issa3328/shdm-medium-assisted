@@ -20,13 +20,6 @@ const SUPABASE_ANON_KEY = "sb_publishable_KEoCJtCLyGTJjqB1phGy2Q_v3PftUYH";
 const FLOW              = "medium_assisted";
 const SURVEY_RETURN_URL = "https://www.surveymonkey.ca/r/5C7MWMD";
 
-// Visibility / Automation for this condition
-const isLow      = false;
-const isMed      = true;
-const isHigh     = false;
-const isLowAuto  = false;
-const isMedAuto  = true;
-const isHighAuto = false;
 const MODE_LABEL = "Info: Medium · Control: Assisted";
 const VISIBILITY = "medium";   // low | medium | high
 const AUTOMATION = "assisted";   // manual | assisted | automated
